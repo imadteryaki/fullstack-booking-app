@@ -1,4 +1,4 @@
-# Full-Stack Booking App
+# Full-Stack Booking App ( cloned from Booking.com )
 
 A full-stack hotel booking application with a **React** frontend and a **Node.js / Express** REST API backed by **MongoDB**.
 
